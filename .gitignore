@@ -1,0 +1,12 @@
+
+*.pyc
+*.xml
+/.idea
+__pycache__
+.idea/
+*.iml
+
+static/
+train.py
+data.pth
+intents.json
